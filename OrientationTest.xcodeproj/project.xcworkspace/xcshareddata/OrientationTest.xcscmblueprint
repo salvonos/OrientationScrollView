@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "336AC2F68BD29620A34784C8CE796D17B8BB3EBD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2610C6FF02D3EFCC865F10A4E0E15A4C6CF88D10" : 0,
+    "336AC2F68BD29620A34784C8CE796D17B8BB3EBD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1944570A-7D13-479D-BB1A-79AD3E1D5456",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2610C6FF02D3EFCC865F10A4E0E15A4C6CF88D10" : "",
+    "336AC2F68BD29620A34784C8CE796D17B8BB3EBD" : "OrientationTest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OrientationTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OrientationTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/salvonos\/OrientationScrollView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2610C6FF02D3EFCC865F10A4E0E15A4C6CF88D10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/salvonos\/OrientationScrollView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "336AC2F68BD29620A34784C8CE796D17B8BB3EBD"
+    }
+  ]
+}
